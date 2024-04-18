@@ -46,10 +46,10 @@ ul{list-style-type: none;
   display: flex;justify-content: space-evenly; }
 .current{
   color: #faf5f5;
-  background: #0FFF00;
+  background: blue;
   text-transform: uppercase;
 }
-  p {background-color: #B3B3B3; color:#bf3636; font-family: Georgia, 'Times New Roman', Times, serif; font-size: medium;}
+  p {background-color: aliceblue; color:#bf3636; font-family: Georgia, 'Times New Roman', Times, serif; font-size: medium;}
 
 
 a:hover{  
